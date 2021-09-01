@@ -16,7 +16,7 @@ acabar criando interdependências entre os microserviços. Algo inadmissível pa
 
 ## Esse projeto foi feito com Spring Boot:
 
-Inicie-o no seu sistema com o comando
+Com o { [Config Server](https://github.com/PedrosUsername/config_server) } funcionando, inicie o projeto no seu sistema com o comando:
 
 ```shell script
 $ ./gradlew bootRun
